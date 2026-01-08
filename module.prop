@@ -4,4 +4,5 @@ version=v1.0
 versionCode=1
 author=tizianoluziramos
 description=Patch everything to gain full access, example: debuggable android apps, etc.
-updateJson=
+updateJson=https://raw.githubusercontent.com/tizianoluziramos/everythingpatch/refs/heads/main/update.json
+changeLog=https://raw.githubusercontent.com/tizianoluziramos/everythingpatch/main/changelog.md
